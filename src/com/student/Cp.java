@@ -3,7 +3,7 @@ package com.student;
 import java.sql.*;
 
 public class Cp {
-	
+	//new
 	static Connection con;
 	
 	public static Connection createC() {
